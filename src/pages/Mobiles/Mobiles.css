@@ -1,0 +1,27 @@
+.mobiles__page img {
+    width: 100%;
+}
+
+
+.mobiles__page .mobileBox__content .mobileBox__content__image {
+    transition: 0.5s ease-in-out !important;
+}
+
+
+.mobiles__page .mobileBox .mobileBox__content .mobileBox__content__image:hover {
+    transition: 0.5s ease-in-out !important;
+    transform: translateY(-10px) !important;
+}
+
+
+
+.mobiles__page .mx-auto .border-0:hover {
+    transition: 0.5s ease-in-out !important;
+    background-color: red !important;
+}
+
+
+.mobiles__page .mx-auto .go:hover {
+    transition: 0.5s ease-in-out !important;
+    background-color: gold !important;
+}

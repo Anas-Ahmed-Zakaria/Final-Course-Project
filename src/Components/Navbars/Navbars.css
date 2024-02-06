@@ -1,0 +1,34 @@
+nav {
+    position: fixed !important;
+    width: 100% !important;
+    z-index: 10 !important;
+    top: 0 !important;
+}
+
+.nav-link:hover {
+    transition: 0.3s ease-in-out !important;
+    color: red !important;
+}
+
+nav img {
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 50% !important;
+}
+
+
+nav a {
+    text-decoration: none !important;
+    margin: 10px 0 !important;
+}
+
+nav .nav-item a{
+    color: black;
+}
+
+.active {  
+    background: #e72525 !important;
+    color: #fff !important;
+    padding: 5px 20px !important;
+    border-radius: 20px !important;    
+}

@@ -1,0 +1,5 @@
+.prod__section a:hover {
+    background-color: red !important;
+    transition: 0.5s ease-in-out !important;
+    border: none !important;
+}

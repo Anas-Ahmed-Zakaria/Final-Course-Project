@@ -1,0 +1,12 @@
+.col-md-4 .card a:hover {
+    background-color: red !important;
+    transition: 0.5s ease-in-out !important;
+    border: none !important;
+}
+
+
+.col-md-4 .card .btn-primary:hover {
+    background-color: gold !important;
+    transition: 0.5s ease-in-out !important;
+    border: none !important;
+}

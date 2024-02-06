@@ -1,0 +1,62 @@
+.contactBox {
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+
+.contactBox .fs-3 {
+    background-color: #2c7bfe;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    color: white;
+}
+
+
+.contactBox:hover {
+    background-color: #2c7bfe;
+    color: white !important;
+    transition: 0.5s ease-in-out !important;
+}
+
+.contactBox:hover .fs-3 {
+    background-color: white !important;
+    color: #2c7bfe !important;
+    transition: 0.5s ease-in-out !important;
+}
+
+.contactBox:hover p {
+    color: white !important;
+    transition: 0.5s ease-in-out !important;
+    
+}
+
+.contactBox:hover a {
+    background-color: red !important;
+    color: white !important;
+    border: none;
+    transition: 0.5s ease-in-out !important;
+}
+
+
+.contact__page .sub:hover {
+    background-color: red !important;
+    color: white !important;
+    border: none !important;
+    transition: 0.5s ease-in-out !important;
+}
+
+.contact__page .star:hover {
+    background-color: gold !important;
+    border: none !important;
+    transition: 0.5s ease-in-out !important;
+}
+
+
+.contact__page .err {
+    color: red !important;
+}

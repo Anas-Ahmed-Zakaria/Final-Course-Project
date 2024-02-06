@@ -1,0 +1,27 @@
+.watches__page img {
+    width: 100%;
+}
+
+
+.watches__page .watchBox__content .watchBox__content__image {
+    transition: 0.5s ease-in-out !important;
+}
+
+
+.watches__page .watchBox .watchBox__content .watchBox__content__image:hover {
+    transition: 0.5s ease-in-out !important;
+    transform: translateY(-10px) !important;
+}
+
+
+
+.watches__page .mx-auto .border-0:hover {
+    transition: 0.5s ease-in-out !important;
+    background-color: red !important;
+}
+
+
+.watches__page .mx-auto .go:hover {
+    transition: 0.5s ease-in-out !important;
+    background-color: gold !important;
+}

@@ -1,0 +1,26 @@
+.laptops__page img {
+    width: 100%;
+}
+
+
+.laptops__page .laptopBox__content .laptopBox__content__image {
+    transition: 0.5s ease-in-out !important;
+}
+
+
+.laptops__page .laptopBox .laptopBox__content .laptopBox__content__image:hover {
+    transition: 0.5s ease-in-out !important;
+    transform: translateY(-10px) !important;
+}
+
+
+.laptops__page .mx-auto .border-0:hover {
+    transition: 0.5s ease-in-out !important;
+    background-color: red !important;
+}
+
+
+.laptops__page .mx-auto .go:hover {
+    transition: 0.5s ease-in-out !important;
+    background-color: gold !important;
+}
